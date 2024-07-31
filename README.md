@@ -1,6 +1,6 @@
 # portfolio-seopage
 
-Link: [https://mityabondar.github.io/portfolio-seopage/](https://dmityabondar.github.io/landing-page-example/)
+Link: <a href="https://dmityabondar.github.io/landing-page-example/" target="_blank">https://dmityabondar.github.io/landing-page-example/</a>
 
 What used:
 - HTML / CSS
