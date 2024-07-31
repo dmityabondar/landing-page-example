@@ -17,7 +17,6 @@ if (document.readyState === 'interactive') {
 }
 
 function init() {
-
     Hero()
     Calculator()
     ScrollVideo()
@@ -27,5 +26,4 @@ function init() {
     Tabs()
     Modals()
     Sliders()
-
 }
